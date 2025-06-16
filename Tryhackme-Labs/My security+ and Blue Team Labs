@@ -1,0 +1,40 @@
+# TryHackMe Lab: Offensive Security Introduction
+
+**🗓️ Date Completed:** June 15, 2025  
+**🧭 Path:** Pre-Security  
+**🎯 Focus:** Intro to ethical hacking and red team mindset
+
+---
+
+## 🧠 What I Learned
+
+- The **difference between offensive and defensive security**
+- Key phases of the **penetration testing lifecycle**: Reconnaissance, Scanning, Gaining Access, Maintaining Access, and Covering Tracks
+- Role of tools like **Metasploit**, **Nmap**, and **Hydra**
+- How attackers think and the value of a **red team mindset** for defenders
+
+---
+
+## 🔧 Tools Introduced
+
+- **Nmap** – network scanning
+- **Hydra** – brute force login tool
+- **Metasploit** – exploitation framework
+- **Kali Linux** – operating system for penetration testing
+
+---
+
+## 📌 Key Takeaways
+
+- Offensive security professionals simulate real-world attacks to help organizations improve defenses
+- Ethical hacking must follow **clear scope and rules of engagement**
+- Tools alone aren't enough — methodology and discipline matter most
+
+---
+
+## 🧪 Notes
+
+This was my first introduction to offensive cyber concepts. It helped me understand why red team knowledge is important even if I plan to focus on Blue Team (defensive) work. I also began using terms like vulnerability, enumeration, and access vectors with more clarity.
+
+---
+
